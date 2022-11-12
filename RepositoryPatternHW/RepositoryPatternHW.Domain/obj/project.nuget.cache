@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cnq43zOhTrjCfCgfcNZE4qCm878wWkBGS4ze1ujEtcIsxm1hHaj+DTLZP054gX7NFffiiBT1UsFA5kCpjdxvug==",
+  "dgSpecHash": "D6uCP4LnCWIh59iDGDMjL7FJ2APvoCFS1uAC2UGKN451ZqnVwcsA7lSz2Oxc5pLK38ZkZcH/VZP6HN2MRErHfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aslic\\source\\repos\\AccHW1\\RepositoryPatternHW\\RepositoryPatternHW.Domain\\RepositoryPatternHW.Domain.csproj",
+  "projectFilePath": "C:\\Users\\aslic\\Desktop\\AsliCanCoplu-Week3-Homework\\RepositoryPatternHW\\RepositoryPatternHW.Domain\\RepositoryPatternHW.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aslic\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\aslic\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

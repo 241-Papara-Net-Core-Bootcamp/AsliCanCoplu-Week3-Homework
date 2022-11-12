@@ -23,10 +23,10 @@ namespace RepositoryPatternHW.DataLayer.Concretes
 
         public void Delete(T entity)
         {
-            var deletedEntity = Context.Set<T>().SingleOrDefault(p => p.Id == entity.Id);
-            if (deletedEntity != null)
+            var deletedMovie = Context.Set<T>().SingleOrDefault(p => p.Id == entity.Id);
+            if (deletedMovie != null)
             {
-                Context.Set<T>().Remove(deletedEntity);
+                Context.Set<T>().Remove(deletedMovie);
                 Context.SaveChanges();
             }
             else
